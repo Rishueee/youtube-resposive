@@ -177,7 +177,7 @@ p{
   color: white;
 }
 #akshi{
-  height: 800px;
+  height: 1599px;
 
 }
 .surya img {
@@ -220,12 +220,13 @@ h6{
 }
 
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 30px) {
   .sidenav {
     width: 250px;
+    height: 200px;
   }
   .Header {
-    margin-left: 250px;
+    margin-left: 120px;
   }
   .praja {
     margin-left: 250px;
@@ -235,5 +236,8 @@ h6{
   }
   .videos {
     margin-left: 250px;
+  }
+  .praja button{
+   padding: 2px;
   }
 }
